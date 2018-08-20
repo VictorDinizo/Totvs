@@ -1,1 +1,57 @@
-Teste
+<!DOCTYPE <!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Business Intelligence</title>
+</head>
+<nav>
+    <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">Reports</a></li>
+        <li><a href="#">Statistcs</a></li>
+        <li><a href="#">New Features</a></li>
+        <li><a href="#">Prediction</a></li>
+    </ul>
+</nav>
+<body>
+    <main>
+        <h1>Análise preditiva</h1>
+        <h2>Perspectiva de lucro das filiais São Paulo</h2>
+    </main>
+        <section>
+             <table>
+                  <tr>
+                      <th>Ano</th>
+                      <th>Faturamento</th>
+                      <th>Lucro</th>
+                      <th>Filial</th>
+                </tr>
+                <tr>
+                    <td>2014</td>
+                    <td>R$ 15.258.663,00</td>
+                    <td>R$ 5.365.111,68</td>
+                    <td>São Paulo</td>
+                </tr>
+                <tr>
+                    <td>2015</td>
+                    <td>R$ 17.153.213,00</td>
+                    <td>R$ 1.825.100,77</td>
+                    <td>São Paulo</td>
+                </tr>
+                <tr>
+                    <td>2016</td>
+                    <td>R$ 29.823.118,00</td>
+                    <td>R$ 9.037.000,17</td>
+                    <td>São Paulo</td>
+                </tr>
+                <tr>
+                    <td>2017</td>
+                    <td>R$ 88.823.118,00</td>
+                    <td>R$ 40.137.099,37</td>
+                    <td>São Paulo</td>
+                </tr>
+            </table>
+        </section>
+</body>
+<footer></footer>
+</html>
